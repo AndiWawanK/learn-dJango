@@ -1,0 +1,12 @@
+## install Virtual Environment
+# pip install virtualenv
+
+## create virtualenv folder
+# virtualenv .projectName
+
+## Activate/Deactivate virtualenv folder
+# source .projectName/bin/activate
+# source .projectName/bin/deactivate
+
+## install dJango
+# pip install dJango
